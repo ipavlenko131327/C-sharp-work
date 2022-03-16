@@ -338,3 +338,8 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+.vscode/launch.json
+.gitignore
+.vscode/tasks.json
+Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.assets.cache
+Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
